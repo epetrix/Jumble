@@ -43,7 +43,6 @@ public class Project5 {
 		}//close while
 	
 		
-
 		//JUMBLED
 		while ((word = infileJ.readLine()) != null) {
 
@@ -91,15 +90,4 @@ public class Project5 {
 
 	}//end main
 }//end Project5
-	
-
-
-	
-
-
-
-
-	
-	
-
 	
